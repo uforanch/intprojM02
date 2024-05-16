@@ -1,0 +1,8 @@
+failure_rates:
+- 0.2
+frontend_refresh_time: 0.1
+producer_url: http://localhost:8000
+sender_rates:
+- 1.0
+senders: 3
+total_msgs: 1000

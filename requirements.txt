@@ -1,0 +1,6 @@
+fastapi
+streamlit
+requests
+pydantic
+pytest
+pytest-asyncio
